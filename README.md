@@ -32,6 +32,10 @@
 
 ![그림1](https://user-images.githubusercontent.com/63048392/123515829-1180da00-d6d4-11eb-97e0-6536b9079a6d.png)
 
+![그림1](https://user-images.githubusercontent.com/63048392/123515851-2eb5a880-d6d4-11eb-82c6-51ec184f7e61.png)
+
+
+
 
 
 
