@@ -1,4 +1,7 @@
-# 시애틀 집값 예측
+# Seattle House Price Prediction
+(3-1 data science term-project)
 
-프로젝트 설명
-https://github.com/ansehoon1999/DC_Price-Prediction/blob/master/term-project-spec.docx
+## dataset
+#### kaggle seattle house price dataset
+#### (you can find dataset from kaggle)
+
