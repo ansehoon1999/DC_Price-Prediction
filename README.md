@@ -2,7 +2,7 @@
 # 💰 Seattle House Price Prediction 💰
 (3-1 data science term-project)
 
-## dataset
+## ✔ dataset
 #### kaggle seattle house price dataset
 #### (you can find dataset from kaggle)
 
@@ -12,7 +12,7 @@
 - dirty data: 423
 - category: 18
 
-## dataset preprocessing
+## ✔ dataset preprocessing
 - cleaning dirty data
 - categorical -> numerical
 - feture reduction
@@ -21,11 +21,11 @@
 
 ![그림1](https://user-images.githubusercontent.com/63048392/123515707-738d0f80-d6d3-11eb-9df9-94bbd3e83796.png)
 
-## Algorithm
+## ✔ Algorithm
 - KNN Algorithm (grade)
 - multiple regression (price)
 
-## Evaluation & Ensemble
+## ✔ Evaluation & Ensemble
 - using 'cross_val_score' function
 - using bagging classifier
 - using confusion matrix
